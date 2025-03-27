@@ -1,0 +1,2 @@
+# ScrollingPageIndicator
+Javascript mini project
